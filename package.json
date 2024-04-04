@@ -1,0 +1,20 @@
+{
+  "name": "abcd12-todo-list",
+  "version": "1.0.0",
+  "description": "this is an updated todo list",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghulam fareed",
+  "license": "MIT",
+  "dependencies": {
+    "abcd12-todo-list": "^1.0.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
